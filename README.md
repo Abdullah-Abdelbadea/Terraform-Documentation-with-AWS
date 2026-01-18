@@ -10,7 +10,7 @@ This repository helps you understand Terraform concepts **theoretically and prac
 ##  What is Terraform?
 Terraform is an **Infrastructure as Code (IaC)** tool by **HashiCorp** that allows you to define, provision, and manage infrastructure using declarative configuration files.
 
-![Terraform Overview](images/1.png)
+
 
 ---
 
@@ -26,6 +26,7 @@ Terraform is an **Infrastructure as Code (IaC)** tool by **HashiCorp** that allo
 ---
 
 ##  Infrastructure as Code (IaC)
+![IaC Benefits](images/1.png)
 ![IaC Benefits](images/3.png)
 
 IaC allows you to:
