@@ -259,7 +259,7 @@ terraform apply -auto-approve
 
 ---
 
-## 💣 Destroy Phase
+##  Destroy Phase
 ![Destroy Phase](images/29.png)
 ```bash
 terraform destroy
